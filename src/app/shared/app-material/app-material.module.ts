@@ -6,7 +6,7 @@ import { MatDatepickerModule } from '@angular/material/datepicker';
 
 
 @NgModule({
-  imports: [
+  exports: [
     MatCardModule,
     MatTableModule,
     MatToolbarModule,
